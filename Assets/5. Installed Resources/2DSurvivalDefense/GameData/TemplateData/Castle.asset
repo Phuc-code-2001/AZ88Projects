@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb5cae4b98f1bf4f83644a11676b833, type: 3}
+  m_Name: Castle
+  m_EditorClassIdentifier: 
+  attackPoint:
+  - 20
+  - 30
+  - 50
+  sellPrice:
+  - 0
+  - 0
+  - 0
+  upgradePrice:
+  - 0
+  - 0
+  buyPrice: 0
+  FrontSprites:
+  - {fileID: 21300000, guid: a78a3f1f9859348e8b266f807ae7b6b8, type: 3}
+  - {fileID: 21300000, guid: a78a3f1f9859348e8b266f807ae7b6b8, type: 3}
+  - {fileID: 21300000, guid: a78a3f1f9859348e8b266f807ae7b6b8, type: 3}
+  BackSprites:
+  - {fileID: 21300000, guid: ea7f3aa1aa0964f268468a35c0ac4a90, type: 3}
+  - {fileID: 21300000, guid: ea7f3aa1aa0964f268468a35c0ac4a90, type: 3}
+  - {fileID: 21300000, guid: ea7f3aa1aa0964f268468a35c0ac4a90, type: 3}
